@@ -1,0 +1,9 @@
+.titleContainer {
+    margin-bottom: 50px;
+}
+
+.titleContainer h2 {
+    font-size: 2rem;
+    font-weight: 600;
+    color: #fff;
+}
